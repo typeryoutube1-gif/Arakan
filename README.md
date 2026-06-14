@@ -27,7 +27,7 @@ A simple and efficient ZIP password cracker written in Bash. This tool uses a wo
   <LI>$ pkg upgrade<BR></LI>
   <LI>$ pkg install git<BR></LI>
   <LI>$ pkg install unzip<BR></LI>
-  <LI>$ https://github.com/typeryoutube1-gif/Arakan.git<BR></LI>
+  <LI>$ git clone https://github.com/typeryoutube1-gif/Arakan.git<BR></LI>
   <LI>$ cd Arakan<BR></LI>
   <LI>$ chmod +x bruteforce.sh<BR></LI>
   <LI>$ ./bruteforce.sh or bash bruteforce.sh<BR></LI>
@@ -38,3 +38,6 @@ A simple and efficient ZIP password cracker written in Bash. This tool uses a wo
   <LI>Enter the path of the ZIP file: When prompted, provide the full path to the ZIP file you want to crack.</LI>
   <LI>Enter the path of the wordlist: Provide the path to your wordlist file (e.g., rockyou.txt).</LI>
 </OL>
+
+
+Arakan Army Developer By Thaw Zin Phyo 😎 
